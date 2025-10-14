@@ -41,3 +41,14 @@ print("\nStack after elements are popped:")
 print(stack)
 
 ```
+
+### OUTPUT
+
+<img width="768" height="370" alt="image" src="https://github.com/user-attachments/assets/453e5304-c6e6-4dc2-a41e-cfbf2379b4b3" />
+
+### RESULT
+
+Thus a Python program to implement a stack using a list and its built-in methods (append(), pop()) has been executed succesfully.
+
+
+<img width="768" height="370" alt="image" src="https://github.com/user-attachments/assets/abad6552-f03b-4e93-82dd-3f76d6745f48" />
