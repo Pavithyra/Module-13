@@ -59,4 +59,4 @@ print("Evaluation result :",evaluate(test_expression))
 
 ### RESULT
 
-Thus the 
+Thus a Python program to evaluate a user-given Perfix expression that contains Multiplication and Addition operators using the stack concept has been executed successfully.
