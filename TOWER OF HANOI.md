@@ -40,8 +40,6 @@ def TowerOfHanoi(n , source, destination, auxiliary):
 	    TowerOfHanoi(n-1, source, auxiliary,destination)
 	    print("Move disk from",source,"to",destination)
 	    TowerOfHanoi(n-1, auxiliary,destination,source)
-	    
-
 n=int(input())		
 print("No. of disks =",n)
 
